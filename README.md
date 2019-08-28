@@ -6,6 +6,10 @@
 
 調査、報道、研究など、ご自由にお使いください。
 
+ライセンスはCreative Commons BY 4.0（[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)）とします。
+
+著作権者の表記およびリンク先にある条件を守った上で、商用・非商用を問わずデータを自由にお使いいただけます。
+
 
 
 ## 調査対象
